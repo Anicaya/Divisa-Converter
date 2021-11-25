@@ -1,0 +1,26 @@
+Divisa1,Divisa2,Cambio
+Dolar,Dolar,1
+Dolar,Euro,0.8918
+Dolar,Libra,0.75087
+Dolar,Dolar Canadiense,1.2648
+Dolar,Rupia,74.497
+Euro,Euro,1
+Euro,Dolar,1.1213
+Euro,Libra,0.842
+Euro,Dolar Canadiense,1.4183
+Euro,Rupia,83.532
+Libra,Libra,1
+Libra,Dolar,1.3316
+Libra,Euro,1.1878
+Libra,Dolar Canadiense,1.6843
+Libra,Rupia,99.209
+Dolar Canadiense,Dolar Canadiense,1
+Dolar Canadiense,Dolar,0.79057
+Dolar Canadiense,Euro,0.705
+Dolar Canadiense,Libra,0.59365
+Dolar Canadiense,Rupia,58.896
+Rupia,Rupia,1
+Rupia,Dolar,0.013423
+Rupia,Euro,0.119
+Rupia,Libra,0.1
+Rupia,Dolar Canadiense,0.016979
